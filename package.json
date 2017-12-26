@@ -1,0 +1,26 @@
+{
+  "name": "magic",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MS-masterbot/magic"
+  },
+  "bugs": {
+    "url": "https://github.com/MS-masterbot/magic/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "4.2.0",
+    "eslint-config-htmlacademy": "0.3.x"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "eslint js/"
+  },
+  "engines": {
+    "node": "^6.10"
+  }
+}
